@@ -177,7 +177,7 @@ class Blockchain(object):
         '''
         Generate SHA-256 value for a block
         param block：Block<dict>
-        return：值<int>
+        return：value<int>
         '''
         
         # We have to make sure this dictionary (block) is sorted, otherwise we will get inconsistent hashes
