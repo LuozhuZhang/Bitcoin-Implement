@@ -18,7 +18,9 @@
   </p>
 </div>
 
-This article was first published on the [here](https://mp.weixin.qq.com/s/5ps_OcxPWA96fKUn4ozsZg). I have been using gitlab before. Unfortunately, many interesting codes cannot be uploaded.
+This project started in [2020](https://mp.weixin.qq.com/s/5ps_OcxPWA96fKUn4ozsZg) at the earliest, now I re-upload the code
+
+# Intro
 
 In order to better understand the internal mechanism and underlying principle of the blockchain, I tried to build a simple blockchain through Python and Flask framework
 
